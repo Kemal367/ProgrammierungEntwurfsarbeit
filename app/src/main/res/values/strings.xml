@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProgrammierungEntwurfsarbeit</string>
+
+    <string name="name">Healthy Me</string>
+
+    <string name="inspiration">Inspiration</string>
+    <string name="aktivitaeten">Meine Aktivitäten</string>
+    <string name="impressum">Impressum</string>
+
+</resources>
